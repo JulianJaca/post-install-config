@@ -27,7 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://imgur.com/a/3rVwgb5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UtXpd8G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Login to OSTICKET go to ->admim panel->agents->roles->add new role->"supreme admin". Now that I have created the supreme admin role I will give them all permissions in the catergories tickets, task, and knowledgebase. Next is to configure department so admin panel->agents->department and add new department select all default name "System Administrator". Confuguring teams admin panel->settings->authentication settings->name level II support" and make yourself the team leader. Allow everyone to make tickets admin panel->settings->users->require registration and start to make tickets.
